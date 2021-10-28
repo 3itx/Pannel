@@ -40,7 +40,7 @@ local Label = Instance.new("TextLabel")
 --Properties:
 
 Main.Name = "Main"
-Main.Parent = game.StarterGui.ScreenGui
+Main.Parent = game.CoreGui
 Main.BackgroundColor3 = Color3.fromRGB(170, 0, 255)
 Main.BorderSizePixel = 0
 Main.Position = UDim2.new(0.242740139, 0, 0.208991498, 0)
